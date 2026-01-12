@@ -2,6 +2,8 @@
 
 A lightweight macOS menu bar app that filters out keyboard chatter (duplicate keypresses) from mechanical keyboards.
 
+![Clattering menu bar interface](img.png)
+
 ## The Problem
 
 Mechanical keyboards can develop "chatter" over time, where a single keypress registers multiple times. This is especially common with older switches or certain keyboard models (like the Roccat Vulcan series). Clattering solves this by detecting keypresses that occur too close together and suppressing the duplicates.
